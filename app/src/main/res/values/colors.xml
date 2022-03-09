@@ -20,5 +20,7 @@
     <color name="holo_red_light">#D83939</color>
     <color name="holo_sky_light">#008DC5</color>
 
+    <color name="background_light">#F0F0F0</color>
+
 
 </resources>
