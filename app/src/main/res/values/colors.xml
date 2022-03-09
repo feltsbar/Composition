@@ -11,6 +11,14 @@
     <color name="orange">#FF6D00</color>
     <color name="green">#64DD17</color>
     <color name="red">#D50000</color>
+    <color name="full_green">#00FF00</color>
+
+    <color name="holo_green_light">#72C500</color>
+    <color name="holo_orange_light">#C55C00</color>
+    <color name="holo_purple_light">#8529BF</color>
+    <color name="holo_blue_light">#2362BF</color>
+    <color name="holo_red_light">#D83939</color>
+    <color name="holo_sky_light">#008DC5</color>
 
 
 </resources>
