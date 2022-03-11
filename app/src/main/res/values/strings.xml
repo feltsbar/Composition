@@ -15,12 +15,12 @@
     <string name="text_level_normal">Средний</string>
     <string name="text_level_hard">Тяжелый</string>
     <string name="start_point_timer">00:00</string>
-    <string name="question_mark">Т?</string>
-    <string name="progress_answers">Минимальных ответов:</string>
+    <string name="progress_answers">Правильных ответов: %s (минимум %s)</string>
     <string name="game_over_content_desc">Game Over</string>
     <string name="your_score">Ваш счет: %s</string>
     <string name="minimal_right_answers">Необходимое количество правильных ответов: %s</string>
     <string name="minimal_percent_of_answers">Необходимый процент правильных ответов: %s</string>
     <string name="right_answers_percent">Процент правильных ответов: %s</string>
     <string name="button_try_again">Попробовать снова</string>
+    <string name="question_mark">\?</string>
 </resources>
