@@ -1,7 +1,6 @@
 package com.example.composition.presetation
 
 import android.app.Application
-import android.content.Context
 import android.os.CountDownTimer
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
